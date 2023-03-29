@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ1JyJ.jpg",
+      "title": "Ms Scary 1",
+        "text_Content": "Be Quiet: Granny has excellent hearing, and any noise you make will attract her attention. Move slowly and carefully, and avoid bumping into objects or knocking over items..",
+        "text_Content_1": "..."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ19Yg.jpg",
+      "title": "Ms Scary 2",
+        "text_Content": "Look for hiding places: There are many hiding places throughout the house, including wardrobes, chests, and even under the bed. When you hear Granny coming, find a hiding spot quickly and stay still until she passes..",
+        "text_Content_1": "..."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ12Tv.jpg",
+      "title": "Ms Scary 3",
+        "text_Content": "Collect useful items: There are many items scattered throughout the house that can help you escape, including keys, weapons, and tools. Be sure to search every room thoroughly and collect any useful items you find..",
+        "text_Content_1": "..."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ1Hva.jpg",
+      "title": "Ms Scary 4",
+        "text_Content": "Solve puzzles: There are many puzzles and challenges to overcome in Granny, and solving them can often lead to new items or a way out of the house..",
+        "text_Content_1": "..."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ13jR.jpg",
+      "title": "Ms Scary 5",
+        "text_Content": "Be aware of your surroundings: Granny's house is full of traps and hidden passages, so keep your eyes open and be aware of your surroundings. Look for hidden doors, secret passages, and traps that can help or hinder your progress..",
+        "text_Content_1": "..."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ1FQp.jpg",
+      "title": "Ms Scary 6",
+        "text_Content": "Use headphones: Playing with headphones can help you hear Granny's movements more clearly, which can give you a better chance of avoiding her..",
+        "text_Content_1": "..."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HNQ1fCN.jpg",
+      "title": "Ms Scary 7",
+        "text_Content": "Practice makes perfect: The more you play Granny, the better you'll become at sneaking around the house and avoiding Granny's clutches. Don't get discouraged if you don't escape on your first try – keep practicing and you'll improve over time..",
+        "text_Content_1": "..."
 
 
 
