@@ -1,106 +1,129 @@
 { "ADS":
     {
   
+      "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"huawei",
+      "inter_type":"huawei",
+      "native_type":"huawei",
+      "reward_type":"huawei",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
      
 
-      "banner_type":"admob",
-      "inter_type":"admob",
-      "inter_or_reward":"inter",
-      "native_type":"admob",
-      "reward_type":"admob",
-      "native_or_mrec":"native",
+      "banner_yandex":"R-M-DEMO-300x50",
+      "native_yandex":"R-M-DEMO-interstitial",
+      "interstitial_yandex":"R-M-DEMO-native-i",
+      "rewarde_yandex":"R-M-DEMO-300x50",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
+      
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
-     
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
 
-      "ironsource_id":"ca-app-pub56099942",
-      "unity_id":"ca-app-pub56099942",
-
-
-     
-
-      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
-
-
-      "showRateUs" : true,
-      "gameLink": "game link here"
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"141486922208914_144763991881207",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"141486922208914_145413108482962"
 
   
     },
-    "guideData": [
+    "skins": [
     {
-      "image_link": "https://iili.io/HNQ1JyJ.jpg",
-      "title": "Ms Scary 1",
-        "text_Content": "Be Quiet: Granny has excellent hearing, and any noise you make will attract her attention. Move slowly and carefully, and avoid bumping into objects or knocking over items..",
-        "text_Content_1": "..."
-
+      "imageUrl": "https://iili.io/HNLgn1e.jpg",
+      "title": "Mod Pack 1,
+      "likeNumbers": "2262 LIKES",
+      "commentNumbers": " 3833 COMMENTS",
+      "downloadNumbers": "4414 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (47978056) Click Here"
+       
 
 
       
     },
     {
-      "image_link": "https://iili.io/HNQ19Yg.jpg",
-      "title": "Ms Scary 2",
-        "text_Content": "Look for hiding places: There are many hiding places throughout the house, including wardrobes, chests, and even under the bed. When you hear Granny coming, find a hiding spot quickly and stay still until she passes..",
-        "text_Content_1": "..."
-
-
+      "imageUrl": "https://iili.io/HNLgfXS.jpg",
+      "title": "Mod Pack 2",
+      "likeNumbers": "2292 LIKES",
+      "commentNumbers": " 3533 COMMENTS",
+      "downloadNumbers": "4474 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (658679674) Click Here"
+       
 
       
     },
     {
-      "image_link": "https://iili.io/HNQ12Tv.jpg",
-      "title": "Ms Scary 3",
-        "text_Content": "Collect useful items: There are many items scattered throughout the house that can help you escape, including keys, weapons, and tools. Be sure to search every room thoroughly and collect any useful items you find..",
-        "text_Content_1": "..."
-
-
+      "imageUrl": "https://iili.io/HNLgqL7.jpg",
+      "title": "Mod Pack 3",
+      "likeNumbers": "2202 LIKES",
+      "commentNumbers": " 3313 COMMENTS",
+      "downloadNumbers": "4464 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (568596643) Click Here"
+       
 
       
     }
     ,{
-      "image_link": "https://iili.io/HNQ1Hva.jpg",
-      "title": "Ms Scary 4",
-        "text_Content": "Solve puzzles: There are many puzzles and challenges to overcome in Granny, and solving them can often lead to new items or a way out of the house..",
-        "text_Content_1": "..."
-
-
-
-      
-    },
-    {
-      "image_link": "https://iili.io/HNQ13jR.jpg",
-      "title": "Ms Scary 5",
-        "text_Content": "Be aware of your surroundings: Granny's house is full of traps and hidden passages, so keep your eyes open and be aware of your surroundings. Look for hidden doors, secret passages, and traps that can help or hinder your progress..",
-        "text_Content_1": "..."
-
+      "imageUrl": "https://iili.io/HNLgCB9.jpg",
+      "title": "Mod Pack 4",
+      "likeNumbers": "2722 LIKES",
+      "commentNumbers": " 3393 COMMENTS",
+      "downloadNumbers": "4454 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (56867976) Click Here"
+       
 
 
       
     },
     {
-      "image_link": "https://iili.io/HNQ1FQp.jpg",
-      "title": "Ms Scary 6",
-        "text_Content": "Use headphones: Playing with headphones can help you hear Granny's movements more clearly, which can give you a better chance of avoiding her..",
-        "text_Content_1": "..."
-
-
-
-      
+      "imageUrl": "https://iili.io/HNLgzdb.jpg",
+      "title": "Mod Pack 5",
+      "likeNumbers": "2022 LIKES",
+      "commentNumbers": " 3233 COMMENTS",
+      "downloadNumbers": "4044 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (65867976) Click Here"
+       
     },
     {
-      "image_link": "https://iili.io/HNQ1fCN.jpg",
-      "title": "Ms Scary 7",
-        "text_Content": "Practice makes perfect: The more you play Granny, the better you'll become at sneaking around the house and avoiding Granny's clutches. Don't get discouraged if you don't escape on your first try – keep practicing and you'll improve over time..",
-        "text_Content_1": "..."
-
-
-
-      
+      "imageUrl": "https://iili.io/HNLgoru.jpg",
+      "title": "Mod Pack 6",
+      "likeNumbers": "2262 LIKES",
+      "commentNumbers": " 3833 COMMENTS",
+      "downloadNumbers": "2444 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (658567967) Click Here"
+     
+    },
+    {
+      "imageUrl": "https://iili.io/HNLgI7j.jpg",
+      "title": "Mod Pack 7",
+      "likeNumbers": "2622 LIKES",
+      "commentNumbers": " 8333 COMMENTS",
+      "downloadNumbers": "9444 DOWNLOADS",
+      "description": "welcome to our free mods To download This mod (573685668) Click Here"
+       
     }
   ], "Apps": [
     {
@@ -159,4 +182,5 @@
 
     }
   ]
+ 
   }
