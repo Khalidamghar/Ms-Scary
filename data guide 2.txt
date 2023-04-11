@@ -12,10 +12,10 @@
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"yandex",
-      "inter_type":"yandex",
-      "native_type":"yandex",
-      "reward_type":"yandex",
+      "banner_type":"facebook",
+      "inter_type":"facebook",
+      "native_type":"facebook",
+      "reward_type":"facebook",
       
 
       "ironsource_id":"jhd78302",
@@ -45,9 +45,9 @@
       "applovin_native":"R-M-DEMO-300x50",
 
       "facebook_banner":"R-M-DEMO-interstitial",
-      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_interstitial":"141486922208914_144763991881207",
       "facebook_reward":"R-M-DEMO-300x50",
-      "facebook_native":"R-M-DEMO-interstitial"
+      "facebook_native":"141486922208914_145413108482962"
 
   
     },
