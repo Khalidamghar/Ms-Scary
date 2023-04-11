@@ -1,99 +1,226 @@
 { "ADS":
     {
   
-     
-    
+      "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
-      "banner_type":"unity",
-      "inter_type":"unity",
+        
+      "banner_type":"yandex",
+      "inter_type":"yandex",
       "native_type":"yandex",
-      "reward_type":"unity",
+      "reward_type":"yandex",
       
 
-      "ironsource_id":"1896f3d85",
-      "unity_id":"5149029",
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
      
 
-     "banner_id":"R-M-DEMO-300x50",
-      "interstitial_id":"R-M-DEMO-interstitial",
-      "reward_id":"R-M-DEMO-native-i",
-      "native_id":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2142482-1",
+      "native_yandex":"R-M-2142482-2",
+      "interstitial_yandex":"R-M-2142482-3",
+      "rewarde_yandex":"R-M-2142482-4",
         
         
-        "more_apps_image": "https://wallpaper.dog/large/20487356.jpg",
-        "more_apps_link": "https://wallpaper.dog/large/20487356.jpg"
-        
-        
-   
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
+
+      
+       "banner_admob":"ca-app-pub-1470120312873056/5661975894",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-1494253779810891/5499018586",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
+
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
+
   
     },
-    "skins": [
+   "skins": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5NkvRe.jpg",
+      "title": "Mod Pack 1",
+      "likeNumbers": "2322 LIKES",
+      "commentNumbers": " 3433 COMMENTS",
+      "downloadNumbers": "4644 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
 
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5Nki0B.jpg",
+      "title": "Mod Pack 2",
+      "likeNumbers": "2522 LIKES",
+      "commentNumbers": " 3133 COMMENTS",
+      "downloadNumbers": "4344 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5NkPfV.jpg",
+      "title": "Mod Pack 3",
+      "likeNumbers": "2822 LIKES",
+      "commentNumbers": " 3393 COMMENTS",
+      "downloadNumbers": "4474 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
 
       
     }
     ,{
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5NkkJ9.jpg",
+      "title": "Mod Pack 4",
+      "likeNumbers": "2622 LIKES",
+      "commentNumbers": " 3233 COMMENTS",
+      "downloadNumbers": "4744 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
 
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5Nk4iQ.jpg",
+      "title": "Mod Pack 5",
+      "likeNumbers": "2322 LIKES",
+      "commentNumbers": " 3383 COMMENTS",
+      "downloadNumbers": "4044 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5NksUP.jpg",
+      "title": "Mod Pack 6",
+      "likeNumbers": "2212 LIKES",
+      "commentNumbers": " 3833 COMMENTS",
+      "downloadNumbers": "4544 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
      
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "https://iili.io/H5NkZ5F.jpg",
+      "title": "Mod Pack 7",
+      "likeNumbers": "2232 LIKES",
+      "commentNumbers": " 3733 COMMENTS",
+      "downloadNumbers": "4544 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
-    }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 8",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+
+      
+    }
+    ,{
+      "imageUrl": "https://iili.io/H5NkkJ9.jpg",
+      "title": "Mod Pack 4",
+      "likeNumbers": "2622 LIKES",
+      "commentNumbers": " 3233 COMMENTS",
+      "downloadNumbers": "4744 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
-    }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 9",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/H5Nk4iQ.jpg",
+      "title": "Mod Pack 5",
+      "likeNumbers": "2322 LIKES",
+      "commentNumbers": " 3383 COMMENTS",
+      "downloadNumbers": "4044 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
-    }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 10",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+    },
+    {
+      "imageUrl": "https://iili.io/H5NksUP.jpg",
+      "title": "Mod Pack 6",
+      "likeNumbers": "2212 LIKES",
+      "commentNumbers": " 3833 COMMENTS",
+      "downloadNumbers": "4544 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+     
+    },
+    {
+      "imageUrl": "https://iili.io/H5NkZ5F.jpg",
+      "title": "Mod Pack 7",
+      "likeNumbers": "2232 LIKES",
+      "commentNumbers": " 3733 COMMENTS",
+      "downloadNumbers": "4544 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow."
        
+    }
+  ], "Apps": [
+    {
+      
+       "title": "GMOD SCP GAME",
+      "image": "https://play-lh.googleusercontent.com/C3CmD2g4gmCXn8Aw0aqpcpCMiElfVF4wZ65CbWcy6MvxaD230JUP49_BLzJvO3ce_Ui2=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?hl=&gl=&id=com.allscpmods.gmodscppack"
+
+
+      
+    },
+    { 
+      "title": "garry's mod Game",
+      "image": "https://play-lh.googleusercontent.com/frvB-5zg48YW3-P-D9ExW7sf6qfyIV99oPN2DJECKS2LwOnstJY1b_9FlHlMzrdl5w=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?hl=&gl=&id=com.garrysscpmod.modforgarry0scp"
+
+
+      
+    },
+    {
+      
+      "title": "garry's mod weapons mod",
+      "image": "https://play-lh.googleusercontent.com/Uhfm3Zvboqd-3gM79pWKSd7Ln8Y_IuuHCmOd8qSyhgy4G6QZDo5hgy84Wmzru28kOvrE=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.weaponsforgarrys.modgarrys"
+
+      
+    }
+    ,{
+       
+      "title": "garry's mod vehicles mod",
+      "image": "https://play-lh.googleusercontent.com/dHHPOY6amoqEF9L5sDQ5la6GXD4VsdFhQqWgCgu0mbBiQL58u1WkbrknZNc2ncZ_fkM=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garrysformod.modforvehicles&hl"
+
+
+      
+    },
+    {
+       
+      "title": "prop hunt for garry's mod",
+      "image": "https://play-lh.googleusercontent.com/rDx1TLzSDVaYsyMwEU7vrhHkoiw1BMwYN1z8zDfUuX89wojPBbYd_EWrF4jJc9NLBwE=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.mapsforgarrysmod.prophunt"
+
+    },
+    {
+       
+      "title": "Huggy Wuggy garry's mod",
+      "image": "https://play-lh.googleusercontent.com/Nk8SJ_PblA9SQVi6LkmCbBRBuAgRLuHXwPpdiBTTwmvkgcDACytVVtm0jb2j_9bY7Uc=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.poppyplaytime.garrysmod&hl=ru&gl=ru"
+
+    },
+    {
+      
+      "title": "nextbot garry's mod",
+      "image": "https://play-lh.googleusercontent.com/JllRpdJTPDe5qxM8htKrp2TOGBtbXFKAxubB7qIlZLywJEq4OOPLR8D00vVFgXQNyw=w240-h480",
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.nextbotmod.garrysmod"
+
     }
   ]
  
