@@ -5,25 +5,25 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"facebook",
-      "inter_type":"ironsource",
-      "native_type":"facebook",
-      "reward_type":"ironsource",
+      "banner_type":"yandex",
+      "inter_type":"unity",
+      "native_type":"yandex",
+      "reward_type":"unity",
       
 
       "ironsource_id":"1989d856d",
-      "unity_id":"87320283",
+      "unity_id":"5173165",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
+      "banner_yandex":"R-M-2307930-1",
+      "native_yandex":"R-M-2307930-2",
       "interstitial_yandex":"R-M-DEMO-native-i",
       "rewarde_yandex":"R-M-DEMO-300x50",
         
