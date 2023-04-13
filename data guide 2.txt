@@ -13,9 +13,9 @@
         
         
       "banner_type":"yandex",
-      "inter_type":"unity",
+      "inter_type":"yandex",
       "native_type":"yandex",
-      "reward_type":"unity",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"1989d856d",
@@ -24,8 +24,8 @@
 
       "banner_yandex":"R-M-2307930-1",
       "native_yandex":"R-M-2307930-2",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "interstitial_yandex":"R-M-2307930-3",
+      "rewarde_yandex":"R-M-2307930-4",
         
         
         "banner_huawei":"testw6vs28auh3",
